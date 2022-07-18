@@ -14,6 +14,8 @@ public class Fight {
      * Krookodile #553 Dark No Damage -> It is the team lead, so he can call his team members to arms. Add the
      * damage of all other Zukemons
      *
+     * Critical damage means the damage will be doubled
+     *
      * @param attackerType
      */
     public int hit(int attackerType) {
