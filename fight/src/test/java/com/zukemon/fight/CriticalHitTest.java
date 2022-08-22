@@ -1,5 +1,6 @@
 package com.zukemon.fight;
 
+import com.zukemon.fight.CriticalHit;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
